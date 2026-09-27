@@ -1,0 +1,24 @@
+Data cleaning: removed 150 duplicate orders, filled 300 missing region values with 'Unknown'.
+
+--- KPI Summary ---
+Total revenue: $4,197,642.45
+Total orders: 15,000
+Average order value: $279.84
+
+--- Monthly Trend ---
+Peak revenue month: November 2025 ($329,460.90)
+Lowest revenue month: January 2024 ($38,070.91)
+Revenue peaks in Nov/Dec (holiday season), consistent with typical retail seasonality.
+
+--- Category & Region Breakdown ---
+Top category: Electronics ($2,775,842.25)
+Weakest category: Beauty ($91,055.16)
+Top region: Central ($853,880.29)
+
+--- RFM Customer Segmentation ---
+Loyal Customers: 221 customers
+Potential Loyalists: 203 customers
+Champions: 193 customers
+At Risk: 145 customers
+Lost: 38 customers
+'Champions' segment (top R+F+M scores) drives 33.3% of total revenue despite being a minority of customers -- a classic 80/20 pattern worth targeting with retention campaigns.
