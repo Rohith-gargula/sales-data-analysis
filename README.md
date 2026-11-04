@@ -27,7 +27,10 @@ high-value customers.
   80/20 pattern. This group should be prioritized for retention and
   loyalty campaigns, while the "At Risk" and "Lost" segments are
   candidates for win-back campaigns.
-
+   ![Monthly revenue trend](visuals/monthly_revenue_trend.png)
+   ![Category and region breakdown](visuals/category_region_breakdown.png)
+   ![RFM customer segments](visuals/rfm_customer_segments.png)
+  
 Full console output of every metric is saved to `visuals/insights.txt`
 after running the analysis.
 
